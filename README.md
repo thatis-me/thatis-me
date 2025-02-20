@@ -7,6 +7,6 @@
   📚 - Batch\
   🧵 - Lua\
   📦 - and HTML\
-📂 - I make external and internal projects.\
+📂 - I make external and internal projects.
 
 **Thats it for me!**
